@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    font-family: Helvetica;
+}
+
+#main {
+    width: 80%;
+    max-width: 950px;
+    border: 1px gray solid;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#header {
+    margin-top: 0;
+    border: 2px solid black;
+    padding: 250px;
+    height: 10%;
+    background: rgb(229, 111, 64);
+    background-image: url("../img/CPBadge.png");
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
